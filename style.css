@@ -1,0 +1,84 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: #bec4c0;
+}
+
+.container{
+  background-color: #e1f7e7;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+
+}
+header img{
+  width: 100px;
+  height: 120px;
+  border: 5px solid white;
+  border-radius: 50%;
+  float: left;
+
+}
+
+.header-area{
+  float: left;
+  padding: 30px;
+  color: #63bf7b;
+}
+
+.contact-area{
+  float: right;
+  padding: 30px;
+  
+}
+.contact-area a{
+    color: #297d3f;
+    text-decoration: none;
+}
+.contact-area a:hover{
+  color: #8cce2f;
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5{
+  font-family: 'Handlee', cursive;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  color: #63bf7b;
+}
+
+hr{
+  border: 2px solid #262726;
+  width: 100%;
+  margin: 20px auto;
+  padding-bottom: none;
+}
+.divclear{
+  clear: both;
+}
+
+.common-hr{
+  border: 1px solid #747875;
+  width: 100%;
+  margin: 20px auto;
+  padding-bottom: none;
+}
+
+#personal-section{
+
+}
+.personal-area{
+
+}
+.left-area{
+  width: 30%;
+  float: left;
+}
+.right-area{
+  float: left;
+  width: 70%;
+}
